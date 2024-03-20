@@ -1,1 +1,2 @@
 This file only for newFeature
+This line required from Seif
